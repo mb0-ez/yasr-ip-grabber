@@ -1,6 +1,6 @@
 @echo off
 chcp 65001
-title yasr ip grab
+title yasr ip grab made by mb0-ez
 
 :menu
 echo  ██████  ██████   █████  ██████  ██████  ███████ ██████  
